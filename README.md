@@ -12,6 +12,10 @@ PROJECT 1
 
 FULLSTACK USED: MongoDB, Express, Angular, Node.js
 
+-------------------------------------------------------
+Backend: (https://github.com/rolandsol/server-api)
+
+Frontend: (https://github.com/rolandsol/client)
 
 -------------------------------------------------------
 
@@ -37,4 +41,5 @@ FULLSTACK USED: MongoDB, Express, Angular, Node.js
 9.) In the terminal where 'client' folder opened, run the Angular framework with 'ng serve --port 8081'.
 
 10.) Open your browswer, then go to (http://localhost:8081) to use the system.
+
 
